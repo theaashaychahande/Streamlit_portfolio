@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="Aashay Chahande - AI/ML Portfolio",
-    page_icon="🤖",
+    page_icon="A",
     layout="wide",
     initial_sidebar_state="expanded",
 )
